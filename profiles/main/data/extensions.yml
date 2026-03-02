@@ -1,0 +1,8 @@
+disabled: []
+enabled:
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: sst-dev.opencode
+    uuid: 90e5fe3f-5625-4338-82e4-0ca57e7d0af9
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
