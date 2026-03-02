@@ -8,6 +8,7 @@
   "code-runner.clearPreviousOutput": true,
   "code-runner.runInTerminal": true,
   "cSpell.language": "en, pt-br",
+  "godotTools.editorPath.godot4": "godot-mono",
   "godotTools.lsp.serverPort": 6005,
   "code-runner.executorMap": {
     "javascript": "node",
@@ -66,6 +67,6 @@
     "erlang": "escript",
     "spwn": "spwn build",
     "pkl": "cd $dir && pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
-    "gleam": "gleam run -m $fileNameWithoutExt",
-  },
+    "gleam": "gleam run -m $fileNameWithoutExt"
+  }
 }
