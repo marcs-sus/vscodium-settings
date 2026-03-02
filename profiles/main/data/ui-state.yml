@@ -1,5 +1,35 @@
+geequlim.godot-tools: '{"previousVersion":"2.6.1"}'
+ms-python.python: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"isRemoteGlobalSettingCopiedKey","defaultValue":false},{"key":"autoSelectionInterpretersQueriedOnce"},{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]},{"key":"SHELL_INTEGRATION_WORKING_KEY_bash"},{"key":"PYTHON_ENV_INFO_CACHEv2","defaultValue":[]},{"key":"VSCode.ABExp.FeatureData","defaultValue":{"features":[]}}],"PYTHON_ENV_INFO_CACHEv2":[{"name":"","location":"","kind":"global-other","executable":{"filename":"/bin/python","sysPrefix":"/usr","ctime":1771624449153,"mtime":1770996704000},"display":"Python
+  3.14.3
+  64-bit","version":{"major":3,"minor":14,"micro":3,"release":{"level":"final","serial":0},"sysVersion":"3.14.3
+  (main, Feb 13 2026, 15:31:44) [GCC 15.2.1
+  20260209]"},"arch":3,"distro":{"org":""},"source":["path env
+  var"],"id":"/bin/python","detailedDisplayName":"Python 3.14.3
+  64-bit"},{"name":"","location":"","kind":"global-other","executable":{"filename":"/sbin/python","sysPrefix":"/usr","ctime":1771624449153,"mtime":1770996704000},"display":"Python
+  3.14.3
+  64-bit","version":{"major":3,"minor":14,"micro":3,"release":{"level":"final","serial":0},"sysVersion":"3.14.3
+  (main, Feb 13 2026, 15:31:44) [GCC 15.2.1
+  20260209]"},"arch":3,"distro":{"org":""},"source":["path env
+  var"],"id":"/sbin/python","detailedDisplayName":"Python 3.14.3
+  64-bit"},{"name":"","location":"","kind":"global-other","executable":{"filename":"/usr/bin/python","sysPrefix":"/usr","ctime":1771624449153,"mtime":1770996704000},"display":"Python
+  3.14.3
+  64-bit","version":{"major":3,"minor":14,"micro":3,"release":{"level":"final","serial":0},"sysVersion":"3.14.3
+  (main, Feb 13 2026, 15:31:44) [GCC 15.2.1
+  20260209]"},"arch":3,"distro":{"org":""},"source":["path env
+  var"],"id":"/usr/bin/python","detailedDisplayName":"Python 3.14.3
+  64-bit"},{"name":"","location":"","kind":"global-other","executable":{"filename":"/usr/sbin/python","sysPrefix":"/usr","ctime":1771624449153,"mtime":1770996704000},"display":"Python
+  3.14.3
+  64-bit","version":{"major":3,"minor":14,"micro":3,"release":{"level":"final","serial":0},"sysVersion":"3.14.3
+  (main, Feb 13 2026, 15:31:44) [GCC 15.2.1
+  20260209]"},"arch":3,"distro":{"org":""},"source":["path env
+  var"],"id":"/usr/sbin/python","detailedDisplayName":"Python 3.14.3
+  64-bit"}],"preferredGlobalPyInterpreter":{"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.14.3
+  (main, Feb 13 2026, 15:31:44) [GCC 15.2.1
+  20260209]","version":{"raw":"3.14.3","major":3,"minor":14,"patch":3,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.14.3 64-bit","detailedDisplayName":"Python 3.14.3
+  64-bit"},"autoSelectionInterpretersQueriedOnce":true,"isRemoteGlobalSettingCopiedKey":true,"pylanceDefaultPromptMemento":true}'
 streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.godotTools","pinned":true,"visible":false,"order":10}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.godotTools","pinned":false,"visible":false,"order":10},{"id":"workbench.view.extension.cmake-view","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":11}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -83,18 +113,24 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
   \"}]},{\"id\":\"workbench.view.extension.cspell-info-explorer\",\"iconUrl\":{\
   \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-c\
-  hecker-4.5.6-universal/resources/dark/check_circle.svg\",\"scheme\":\"file\"},\
+  hecker-4.6.0-universal/resources/dark/check_circle.svg\",\"scheme\":\"file\"},\
   \"name\":\"Spell Checker
   Info\",\"isBuiltin\":false,\"views\":[{\"when\":\"cSpell.context.displayCSpel\
   lInfo\"}]},{\"id\":\"workbench.view.extension.cspell-regexp-explorer\",\"icon\
   Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-\
-  spell-checker-4.5.6-universal/resources/dark/check_circle.svg\",\"scheme\":\"\
+  spell-checker-4.6.0-universal/resources/dark/check_circle.svg\",\"scheme\":\"\
   file\"},\"name\":\"Regular
   Expressions\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.cSpell.experi\
   mental.enableRegexpView\"}]},{\"id\":\"workbench.view.extension.godotTools\",\
   \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/geequlim.godot-too\
   ls-2.6.1-universal/resources/godot_icon.svg\",\"scheme\":\"file\"},\"name\":\
-  \"Godot Tools\",\"isBuiltin\":false,\"views\":[{}]}]"
+  \"Godot
+  Tools\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extensio\
+  n.cmake-view\",\"themeIcon\":{\"id\":\"cmake-tools-cmake-view-2\"},\"name\":\
+  \"CMake\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.view.extensio\
+  n.python\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-pyth\
+  on.vscode-python-envs-1.20.1-universal/files/logo.svg\",\"scheme\":\"file\"},\
+  \"name\":\"Python\",\"isBuiltin\":false,\"views\":[]}]"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.empty: "false"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
@@ -102,9 +138,9 @@ workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chat","pinned":tru
 workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeIcon":{"id":"chat-view-icon"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatPanelParticipantRegistered
   && !chatExtensionInvalid && !chatSetupDisabled && !chatSetupHidden &&
   !config.chat.disableAIFeatures"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]}]'
-workbench.auxiliaryBar.size: "490"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["yaml",true],["jsonc",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true}]'
+workbench.auxiliaryBar.size: "300"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["yaml",true],["csharp",true],["jsonc",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
 workbench.panel.lastNonMaximizedHeight: "300"
@@ -114,8 +150,8 @@ workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.cspellPanel","pinned":true,"visible":false,"order":6},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.5.6-universal/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
-  Checker","isBuiltin":false,"views":[]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.6.0-universal/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
+  Checker","isBuiltin":false,"views":[{},{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "266"
@@ -124,8 +160,10 @@ workbench.sideBar.size: "300"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false},{"id":"godotTools.activeSceneTree","isHidden":false},{"id":"godotTools.nodeInspector","isHidden":false}]'
 workbench.view.extension.cspellPanel.state.hidden: '[{"id":"cSpellIssuesViewByFile","isHidden":false},{"id":"cSpellIssuesViewByIssue","isHidden":false}]'
 workbench.view.extension.godotTools.state.hidden: '[{"id":"godotTools.scenePreview","isHidden":false}]'
-workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":true},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "8"
+workbench.views.extensions.installed.size: "27"
 workbench.welcomePage.hiddenCategories: '["Setup"]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-python.python#pythonWelcome",{"firstSeen":1772482399111,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1772482399111,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}]]'
 zokugun.cron-tasks: '{"version":"0.2.1"}'
