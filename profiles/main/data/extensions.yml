@@ -2,7 +2,17 @@ disabled: []
 enabled:
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: geequlim.godot-tools
+    uuid: bbcbb8de-2baf-455f-a458-d5a6f084cebb
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: sst-dev.opencode
     uuid: 90e5fe3f-5625-4338-82e4-0ca57e7d0af9
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: streetsidesoftware.code-spell-checker-portuguese-brazilian
+    uuid: a669e675-9cb2-48a8-983d-33a1c4ed10ef
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
