@@ -4,6 +4,8 @@ enabled:
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: Codeium.codeium
+    uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: DEVSENSE.composer-php-vscode
     uuid: eed2a934-7bb6-4a5b-a29d-353077efd839
   - id: DEVSENSE.intelli-php-vscode
