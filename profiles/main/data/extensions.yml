@@ -26,6 +26,8 @@ enabled:
     uuid: bbcbb8de-2baf-455f-a458-d5a6f084cebb
   - id: jnoortheen.nix-ide
     uuid: 0ffebccd-4265-4f2d-a855-db1adcf278c7
+  - id: laravel.vscode-laravel
+    uuid: 77c91506-f6b9-4993-905d-bfafe12c1cce
   - id: llvm-vs-code-extensions.vscode-clangd
     uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
   - id: mads-hartmann.bash-ide-vscode

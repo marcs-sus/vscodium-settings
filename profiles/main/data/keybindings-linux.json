@@ -1,0 +1,38 @@
+[
+    {
+        "key": "ctrl+shift+escape",
+        "command": "-opencode.openNewTerminal"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-opencode.addFilepathToTerminal"
+    },
+    {
+        "key": "ctrl+escape",
+        "command": "-opencode.openTerminal"
+    },
+    {
+        "key": "ctrl+i",
+        "command": "-codeium.openCodeiumCommand",
+        "when": "codeium.commandEnabled && editorTextFocus && !inlineSuggestionsVisible"
+    },
+    {
+        "key": "ctrl+shift+i",
+        "command": "-codeium.openCodeiumCommand",
+        "when": "codeium.commandEnabled && editorTextFocus && !inlineSuggestionsVisible"
+    },
+    {
+        "key": "ctrl+shift+a",
+        "command": "-codeium.openChatView",
+        "when": "false"
+    },
+    {
+        "key": "ctrl+alt+a",
+        "command": "-codeium.openChatView",
+        "when": "true"
+    },
+    {
+        "key": "ctrl+alt+v",
+        "command": "-codeium.pasteAndTranslate"
+    }
+]

@@ -68,5 +68,9 @@
     "spwn": "spwn build",
     "pkl": "cd $dir && pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
     "gleam": "gleam run -m $fileNameWithoutExt"
+  },
+  "[csharp]": {
+    "editor.maxTokenizationLineLength": 2500,
+    "editor.defaultFormatter": "muhammad-sammy.csharp"
   }
 }
