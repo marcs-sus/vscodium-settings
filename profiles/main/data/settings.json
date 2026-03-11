@@ -72,5 +72,8 @@
   "[csharp]": {
     "editor.maxTokenizationLineLength": 2500,
     "editor.defaultFormatter": "muhammad-sammy.csharp"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
   }
 }
