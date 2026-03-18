@@ -2,6 +2,8 @@ disabled: []
 enabled:
   - id: bmewburn.vscode-intelephense-client
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
+  - id: Catppuccin.catppuccin-vsc
+    uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: Codeium.codeium
@@ -54,5 +56,7 @@ enabled:
     uuid: a669e675-9cb2-48a8-983d-33a1c4ed10ef
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
+  - id: zhuangtongfa.material-theme
+    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

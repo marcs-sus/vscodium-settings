@@ -75,5 +75,6 @@
   },
   "[shellscript]": {
     "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
-  }
+  },
+  "workbench.colorTheme": "One Dark Pro Darker"
 }
